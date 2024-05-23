@@ -9,7 +9,7 @@ It might be hard to find everything for Python 3.12.   For example, the official
 
 Usage
 ```
-$ pip install https://github.com/nicechester/tensorflow-docker/raw/main/tensorflow_text-2.16.1-cp312-cp312-linux_aarch64.whl
+$ pip install https://github.com/nicechester/tensorflow-docker/raw/main/wheels/tensorflow_text-2.16.1-cp312-cp312-linux_aarch64.whl
 ```
 
 You may need to install hdf5 before installing tensorflow-text
